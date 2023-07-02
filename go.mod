@@ -1,4 +1,4 @@
-module go-render-api
+module github.com/Poul-george/go-render-ap/go-render-api
 
 go 1.20
 

@@ -1,9 +1,9 @@
 package main
 
 import (
+	c "github.com/Poul-george/go-render-ap/go-render-api/controller"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
-	c "go-render-api/controller"
 	"net/http"
 )
 
