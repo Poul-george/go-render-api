@@ -2,8 +2,8 @@ package controller
 
 import (
 	"github.com/labstack/echo/v4"
+	"go-render-api/response"
 	"net/http"
-	"test-go-api/response"
 )
 
 func List(ctx echo.Context) error {

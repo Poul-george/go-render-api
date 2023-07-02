@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
+	c "go-render-api/controller"
 	"net/http"
-	c "test-go-api/controller"
 )
 
 func main() {

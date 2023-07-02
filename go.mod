@@ -1,4 +1,4 @@
-module test-go-api
+module go-render-api
 
 go 1.20
 
